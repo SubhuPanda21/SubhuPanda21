@@ -146,10 +146,10 @@ class DataScientist:
 <div align="center">
 
 <a href="https://github.com/SubhuPanda21/Smart-City-Insights">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=project-1&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Smart-City-Insights&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/SubhuPanda21/Rule-Based_Chatbot_for_DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=project-2&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Rule-Based_Chatbot_for_DSA&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/SubhuPanda21/project-3">
@@ -199,18 +199,6 @@ If you find my projects helpful or interesting, consider giving them a ⭐ on Gi
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SubhuPanda21)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SubhuPanda21)
 
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=awesome-ml-project&theme=tokyonight&hide_border=true)](https://github.com/SubhuPanda21/awesome-ml-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=data-science-toolkit&theme=tokyonight&hide_border=true)](https://github.com/SubhuPanda21/data-science-toolkit)
-
-</div>
 
 ---
 
@@ -242,9 +230,6 @@ quote: "In God we trust, all others must bring data." - W. Edwards Deming
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/SubhuPanda21/SubhuPanda21/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
