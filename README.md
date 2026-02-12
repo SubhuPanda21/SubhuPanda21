@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SubhuPanda21&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/your-username)
-[![GitHub Followers](https://img.shields.io/github/followers/SubhuPanda21?label=Followers&style=for-the-badge&color=blue)](https://github.com/your-username)
-[![GitHub Stars](https://img.shields.io/github/stars/SubhuPanda21?label=Stars&style=for-the-badge&color=yellow)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=SubhuPanda21&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/SubhuPanda21)
+[![GitHub Followers](https://img.shields.io/github/followers/SubhuPanda21?label=Followers&style=for-the-badge&color=blue)](https://github.com/SubhuPanda21)
+[![GitHub Stars](https://img.shields.io/github/stars/SubhuPanda21?label=Stars&style=for-the-badge&color=yellow)](https://github.com/SubhuPanda21)
 
 </div>
 
@@ -146,7 +146,7 @@ class DataScientist:
 <div align="center">
 
 <a href="https://github.com/SubhuPanda21/Smart-City-Insights">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Smart-City-Insights&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/SubhuPanda21/Rule-Based_Chatbot_for_DSA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Rule-Based_Chatbot_for_DSA&theme=tokyonight&hide_border=true" />
