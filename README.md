@@ -148,8 +148,8 @@ class DataScientist:
 <a href="https://github.com/SubhuPanda21/Smart-City-Insights">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/SubhuPanda21/Rule-Based_Chatbot_for_DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Rule-Based_Chatbot_for_DSA&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SubhuPanda21/Paper2Code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhuPanda21&repo=Paper2Code&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/SubhuPanda21/project-3">
@@ -177,18 +177,7 @@ class DataScientist:
 
 ---
 
-## 🎨 Coding Activity
 
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SubhuPanda21&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
----
 
 ## 🌟 Support My Work
 
