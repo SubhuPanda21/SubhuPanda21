@@ -2,7 +2,7 @@
 <!--                  SUBHALAXMI PANDA — GITHUB PROFILE             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="center"> 
    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,29,30&height=200&section=header&text=Subhalaxmi%20Panda&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Architect&descSize=17&descAlignY=60&descColor=a8dadc&animation=twinkling" width="100%" />
 
