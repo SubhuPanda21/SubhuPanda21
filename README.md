@@ -21,7 +21,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhalaxmipanda)&ensp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/subhalaxmipanda)&ensp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/subhupanda)&ensp;
 [![Gmail](https://img.shields.io/badge/subhu0307@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhu0307@gmail.com)&ensp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)&ensp;
 ![Visitors](https://komarev.com/ghpvc/?username=SubhuPanda21&label=Profile+Views&color=a8dadc&style=flat-square)
